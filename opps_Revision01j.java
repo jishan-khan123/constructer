@@ -20,13 +20,13 @@ public static void main(String[] args) {
 
 
 
-
+System.out.println("hello java");
 
     
    
 student s1 = new student();
 
-s1.name = "jishan khan";
+s1.name = "jishan khan RAJPUT";
 s1.age = 25;
 s1.gender = "male";
 
