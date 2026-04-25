@@ -17,7 +17,7 @@ public void getDATA(){
 }
 
 }
-public class incapsulation1 {
+public class incapsulation_set,get_1.java {
 public static void main(String[] args) {
 
     car c = new car();
